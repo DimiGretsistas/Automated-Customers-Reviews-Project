@@ -1,3 +1,5 @@
+(Please copy the following link, in order to visit the deployed website -> https://review-sense-ai.netlify.app/)
+
 # ReviewSense AI
 
 AI-powered NLP pipeline that transforms **50,000+ Amazon reviews** into smart product recommendations using **Sentiment Analysis, Semantic Clustering, and Generative AI**.
