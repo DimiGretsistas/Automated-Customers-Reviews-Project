@@ -1,4 +1,4 @@
-(Please copy the following link, in order to visit the deployed website -> https://review-sense-ai.netlify.app/)
+(Please click the following link, in order to visit the deployed website -> https://review-sense-ai.netlify.app/)
 
 # ReviewSense AI
 
